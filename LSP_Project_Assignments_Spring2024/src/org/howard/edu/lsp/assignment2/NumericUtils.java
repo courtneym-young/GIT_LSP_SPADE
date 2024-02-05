@@ -1,3 +1,6 @@
+/*
+ * Name: Courtney Young
+ */
 package org.howard.edu.lsp.assignment2;
 
 public class NumericUtils {
